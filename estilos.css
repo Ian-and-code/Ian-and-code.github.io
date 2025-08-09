@@ -1,12 +1,14 @@
 /* #4B0082 = morado oscuro*/
 body {
   font-family: "Roboto Mono", "monospace", "Consolas";
-  margin: 50px;
+  margin: 100px;
+  background-color: lightgray;
 }
 
 h1 {
   font-size: 30px;
   color: #4B0082;
+  background-color: steelblue;
 }
 
 h2 {
