@@ -1,11 +1,23 @@
+body {
+  font-family: "Roboto Mono", monospace, "Consolas";
+}
+
 h1 {
- font-size: 30px
- color: blackpurple
- font-family: 'Roboto Mono', 'monospace', 'consolas'
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
 }
 
 p {
- font-size: 15px
- color: blackpurple
- font-family: 'Roboto Mono', 'monospace', 'consolas'
+  font-size: 15px;
+}
+
+h1, h2, h3 {
+  color: #4B0082; /* Morado oscuro */
 }
