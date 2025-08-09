@@ -3,20 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hola Mundo Separado</title>
+    <title>Editor de Python</title>
     <link rel="stylesheet" href="estilos.css">
+    
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.28.1/full/pyodide.js"></script>
 </head>
 <body>
 
-    <div class="container">
-        <h1><pi id="mesage">¡Hola, Mundo!</p></h1>
-        <p id="mensaje">Este es un ejemplo con archivos separados.</p>
-        <button onclick="cambiarMensaje()">Cambiar descripcion
-            
-        </button>
-        <button onclick="cambiarMensaje2()">Cambiar titulo
-            
-        </button>
+    <div class="editor-container">
+        <h1>Editor de Código Python</h1>
+        <textarea id="editor" placeholder="Escribe tu código Python aquí..."></textarea>
+        <button onclick="ejecutarCodigo()">Ejecutar</button>
+        <pre id="salida"></pre>
     </div>
 
     <script src="script.js"></script>
