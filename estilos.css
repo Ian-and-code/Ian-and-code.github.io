@@ -43,4 +43,12 @@ button {
 }
 button:hover {
     background-color: #0056b3;
+
+    border-radius: 5px;
+    background-color: #30f;
+    color: white;
+    margin-top: 20px;
+}
+button:hover {
+    background-color: #0056b3;
 }  
