@@ -1,6 +1,7 @@
 /* #4B0082 = morado oscuro*/
 body {
   font-family: "Roboto Mono", "monospace", "Consolas";
+  margin: 25px;
 }
 
 h1 {
