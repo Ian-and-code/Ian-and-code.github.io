@@ -1,9 +1,6 @@
-function go_to1(){
-    window.location.href= "redes/redes.html"
-}
-function go_to2(){
-    window.location.href= "redesm/redesm.html"
-}
-function go_to3(){
-    window.location.href= "redesnm/redesnm.html"
-}
+const app = document.querySelector('#app')
+const md = fetch('index.md').then((response) => response.text()).then((text) => {
+    const converter = new showdown.Converter()
+    const html = converter.makeHtml(text)
+    app.innerHTML = html
+  })
