@@ -1,18 +1,19 @@
 # hola soy ian y esta es mi pagina wep
-  ## redes sociales
+## redes sociales
   
-  [YouTube](https://www.youtube.com)
+[YouTube](https://www.youtube.com)
     
-  [github](https://www.github.com/Ian-and-code)
+[github](https://www.github.com/Ian-and-code)
   
-  [YouTube secundario](https://www.youtube.com)
-  
-  ## lenguajes que se
+[YouTube secundario](https://www.youtube.com)
 
-  ![python](python.png)
+## programación
+### lenguajes que se
 
-  ![markdowm](markdown.png)
+![python](python.png)
 
-  ## lenguajes que estoy aprendiendo
+![markdowm](markdown.png)
 
-  ![](python.png) ![pygame](pygame.png)
+### lenguajes que estoy aprendiendo
+
+![](python.png) ![pygame](pygame.png)
