@@ -10,10 +10,16 @@
 ## programación
 ### lenguajes que se
 
-![python](python.png)
+markdown
 
-![markdowm](markdown.png)
+<img alt="markdown" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/markdown.png" width="50%" height="50%">
 
-### lenguajes que estoy aprendiendo
+python
 
-![](python.png) ![pygame](pygame.png)
+<img alt="python" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg" width="35%" height="35%">
+
+### estoy aprendiendo 
+
+pygame
+
+<img alt="pygame" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png" width="65%" height="65%">
