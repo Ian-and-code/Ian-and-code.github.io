@@ -1,1 +1,1 @@
-alert("hola, está es mí primera página web, no esperes mucho")
+console.log("eres moderador o hacker")
