@@ -1,9 +1,9 @@
 a {
-  color: #0004F0;
+  color: violet;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
 }
 a:hover {
-  color: #F001F0;
+  color: purple;
 }
