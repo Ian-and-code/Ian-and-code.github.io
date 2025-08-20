@@ -1,6 +1,7 @@
 :root {
-  --a-color: violet;
-  --a-hover-color: purple;
+  --a-color: green;
+  --a-hover-color: lightgreen;
+  --bgcolor; gray;
 }
 a {
   color: var(--a-color);
@@ -10,4 +11,7 @@ a {
 }
 a:hover {
   color: var(--a-hover-color);
+}
+body {
+  background-color: var(--bgcolor);
 }
