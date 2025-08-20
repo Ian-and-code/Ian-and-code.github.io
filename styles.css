@@ -1,17 +1,9 @@
-:root {
-  --a-color: green;
-  --a-hover-color: lightgreen;
-  --bgcolor: gray;
-}
 a {
-  color: var(--a-color);
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
+  color: green;
 }
 a:hover {
-  color: var(--a-hover-color);
+  color: lightgreen;
 }
 body {
-  background-color: var(--bgcolor);
+  background-color: #101010;
 }
