@@ -1,7 +1,7 @@
 :root {
   --a-color: green;
   --a-hover-color: lightgreen;
-  --bgcolor; gray;
+  --bgcolor: gray;
 }
 a {
   color: var(--a-color);
