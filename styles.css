@@ -1,9 +1,13 @@
+:root {
+  --a-color: violet;
+  --a-hover-color: purple;
+}
 a {
-  color: violet;
+  color: var(--a-color);
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
 }
 a:hover {
-  color: purple;
+  color: var(--a-hover-color);
 }
