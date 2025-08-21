@@ -13,3 +13,7 @@ a:hover {
 body {
   background-color: #101010;
 }
+
+th {
+font-size: 20px;
+}
