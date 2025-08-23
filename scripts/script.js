@@ -1,0 +1,1 @@
+console.log("eres moderador o hacker")
