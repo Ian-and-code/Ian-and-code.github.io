@@ -1,0 +1,23 @@
+* {
+  color: white;
+}
+
+a {
+  color: green;
+}
+
+a:hover {
+  color: lightgreen;
+}
+
+body {
+  background-color: #101010;
+}
+
+th {
+  font-size: 25px;
+}
+
+td {
+  font-size: 23px;
+}
