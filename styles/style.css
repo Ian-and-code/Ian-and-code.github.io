@@ -18,8 +18,11 @@ a:hover {
   color: lightgreen;
 }
 
-body {
+main {
   background-color: #101010;
+}
+body {
+  background-color: black;
 }
 
 th {
