@@ -30,6 +30,7 @@ td {
   font-size: 23px;
 }
 
-.f {
+.f, footer {
   border-top: 10px solid green;
+  background-color: #000;
 }
