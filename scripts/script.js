@@ -7,10 +7,11 @@ class MyFooter extends HTMLElement {
   render() {
     this.innerHTML = `
       <footer>
-        <h1>Manz.dev</h1>
+        <h1>pags</h1>
         <ul>
           <li> <a href="index.html">principal</a></li>
           <li> <a href="Estudios.html">estudios</a></li>
+        </ul>
       </footer>
     `;
   }
