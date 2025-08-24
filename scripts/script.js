@@ -1,17 +1,19 @@
-class ManzDevHeader extends HTMLElement {
+class MyFooter extends HTMLElement {
   constructor() {
     super();
     this.render();
   }
 
   render() {
-    this.innerHTML = /* html */ `
-      <header>
+    this.innerHTML = `
+      <footer>
         <h1>Manz.dev</h1>
-        <img src="https://manz.dev/manz-logo.svg" alt="Manz.dev">
-      </header>
+        <ul>
+          <li> <a href="index.html">principal</a></li>
+          <li> <a href="Estudios.html">estudios</a></li>
+      </footer>
     `;
   }
 }
 
-customElements.define("manzdev-header", ManzDevHeader);
+customElements.define("my-footer", MyFooter);
