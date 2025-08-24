@@ -33,4 +33,5 @@ td {
 footer {
   border-top: 10px solid green;
   background-color: #000;
+  padding-top: 10px;
 }
