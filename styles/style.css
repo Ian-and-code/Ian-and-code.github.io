@@ -20,7 +20,7 @@ a:hover {
 
 main {
   background-color: #101010;
-  max-width: 800px
+  max-width: 100%;
 }
 body {
   background-color: black;
