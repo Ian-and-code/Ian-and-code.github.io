@@ -49,6 +49,13 @@ main {
     text-decoration: underline;
 }
 
+a:visited {
+    color: #800080;
+}
+
+a:focus {
+    color: #ADD8E6;
+}
 footer {
     text-align: center;
     color: #888;
