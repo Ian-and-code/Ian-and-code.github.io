@@ -3,8 +3,7 @@ const packages = [
     {
         name: "Logical",
         description: "Paquete de ejemplo para operaciones lógicas.",
-        whl: "simple/Logical/Logical-0.1.0-py3-none-any.whl",
-        tar: "simple/Logical/Logical-0.1.0.tar.gz"
+        link: "https://ian-and-code.github.io/simple/Logical/index.html"
     }
 ];
 
@@ -18,8 +17,7 @@ packages.forEach(pkg => {
     div.innerHTML = `
         <h2>${pkg.name}</h2>
         <p>${pkg.description}</p>
-        <a href="${pkg.whl}">Descargar .whl</a><br>
-        <a href="${pkg.tar}">Descargar .tar.gz</a>
+        <a href="${pkg.link}">Pagina del modulo</a>
     `;
     
     container.appendChild(div);
