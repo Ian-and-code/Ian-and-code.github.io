@@ -27,6 +27,7 @@ h3 {
 
 a {
   color: green;
+  display: block;
 }
 
 a:hover {
